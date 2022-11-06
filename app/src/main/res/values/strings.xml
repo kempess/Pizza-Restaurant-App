@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Pizza King Restaurant </string>
+    <string name="name_label_text">Choose a Store Location: </string>
+    <string name="nama_text">Your Name: </string>
+    <string name="enter_name_hint">Name </string>
+    <string name="user_namesiji">Hello Kempes</string>
+    <string name="teks_lay1">Restaurant Name</string>
+    <string name="Bandung">Pizza Restaurant Bandung</string>
+    <string name="lokasi">Location : </string>
+    <string name="search_om_map">Bandung</string>
+
+    <string-array name="kota">
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Jogjakarta</item>
+        <item>Sukabumi</item>
+        <item>Bandung</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="user_nameloro">Hello Kempes</string>
+    <string name="title_menu1">Pizza Paperoni</string>
+    <string name="isi_menu1">Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat.</string>
+    <string name="title_menu2">Spaghetti</string>
+    <string name="isi_menu2">Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental.</string>
+    <string name="title_menu3">Burger</string>
+    <string name="isi_menu3">Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal.</string>
+    <string name="title_menu4">Steak</string>
+    <string name="isi_menu4">Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat.</string>
+    <string name="teks_order">Pizza Paperoni</string>
+    <string name="teks_price">Price : Rp. 200.000</string>
+    <string name="teks_desk">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="detail_order">Order Detail: </string>
+    <string name="detail_nama">Kempes</string>
+    <string name="detail_store">Store : Bandung</string>
+    <string name="detail_pesanan">Pizza Paperoni sudah dipesan</string>
+    <string name="detail_kirim">Opsi Pengiriman: </string>
+    <string name="ambil_sendiri">Ambil Sendiri</string>
+    <string name="antar">Fast Delivery</string>
+</resources>
